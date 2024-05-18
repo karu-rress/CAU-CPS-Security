@@ -1,3 +1,8 @@
 yolo_test/
-data/
 __pycache__/
+data/
+
+
+# outputs
+adv_examples/
+origin_examples/
