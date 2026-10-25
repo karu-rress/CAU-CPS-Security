@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>대상학년</b></td><td>4학년</td>
-    <td><b>이수구분</b></td><td>전공선택</td>
+    <td><b>이수구분</b></td><td>전공<sup><a href="#footnote-1" id="ref-1">[1]</a></sup></td>
   </tr>
   <tr>
     <td><b>과목유형</b></td><td>이론강의</td>
@@ -28,9 +28,14 @@
     <td><b>취득평점</b></td><td>A+(4.5)</td>
   </tr>
 </table>
+<p id="footnote-1">
+  <a href="#ref-1">[1]</a> 성적증명서 상 이수구분: 융합전공(사이버보안융합전공)
+</p>
 
 # Contents
 - Week 3: TQDM
 - Week 4: argparse
 - Week 5: CNN (1)
 - Week 6: CNN (2)
+- Week 10: Adversarial Attacks
+- Week 11: Optimizer
